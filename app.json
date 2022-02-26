@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Voch",
+    "slug": "snack-1b83e8ae-612b-4465-baf2-474bf73611e7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./appicon.png",
+    "splash": {
+      "backgroundColor": "#6e7d75",
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./appicon.png",
+      },
+      "package": "com.VochTech.Voch",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./appicon.png"
+    }
+  }
+}
