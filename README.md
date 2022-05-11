@@ -21,21 +21,27 @@ Register
 ![image](https://user-images.githubusercontent.com/75197663/167896841-084944d3-c685-478c-9df0-7be41cd1a424.png)
 
 Forgot Password
+
 ![image](https://user-images.githubusercontent.com/75197663/167897014-4fe895b5-3898-42b8-9f6d-af02e5da6b53.png)
 
 Home
+
 ![image](https://user-images.githubusercontent.com/75197663/167897097-68ee18fb-8716-411d-a6e8-9ae1b36d2378.png)
 
 Friends
+
 ![image](https://user-images.githubusercontent.com/75197663/167897146-c9ea4fdf-b93d-4ed0-8b49-8cf2f63ff61a.png)
 
 ID Searching
+
 ![image](https://user-images.githubusercontent.com/75197663/167897212-49229467-ff67-4b06-ac1e-8b26fa9aa516.png)
 
 Profile Friends
+
 ![image](https://user-images.githubusercontent.com/75197663/167897339-35952382-f19c-4903-b764-a8d9014c3991.png)
 
 Chat
+
 ![image](https://user-images.githubusercontent.com/75197663/167897480-c0862e85-19f7-4b01-b428-314db0105635.png)
 
 My profile
