@@ -13,9 +13,11 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 # Display
 
 Login
+
 ![image](https://user-images.githubusercontent.com/75197663/167896668-6e1820b6-cc88-426c-a71b-78e4562099fd.png)
 
 Register
+
 ![image](https://user-images.githubusercontent.com/75197663/167896841-084944d3-c685-478c-9df0-7be41cd1a424.png)
 
 Forgot Password
